@@ -16,3 +16,4 @@
 ----------------------------------------
 - git push - wysłanie zmian do repozytorium ZDALNEGO
 - git pull - pobieram zmiany z repozytorium ZDALNEGO
+- git chechout -b <nameBranch> - utworzenie nowej gałęzi 
