@@ -13,4 +13,5 @@ git log - sprawdzenie historii commitów
 git revert <commit> - cofnięcie konkretnego commita
 git show <HASH> - wyświetlanie informacji o konkretnym commicie
 ----------------------------------------
-git push - wysłanie commmita do repozytorium 
+git push - wysłanie zmian do repozytorium ZDALNEGO
+git pull - pobieram zmiany z repozytorium ZDALNEGO
