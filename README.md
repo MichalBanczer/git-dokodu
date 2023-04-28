@@ -12,3 +12,5 @@ git restore <file> - przywrócenie pliku do wersji repozytorium
 git log - sprawdzenie historii commitów
 git revert <commit> - cofnięcie konkretnego commita
 git show <HASH> - wyświetlanie informacji o konkretnym commicie
+----------------------------------------
+git push - wysłanie commmita do repozytorium 
